@@ -105,7 +105,7 @@ function App() {
 
           <form
             className="contact-form"
-            action="https://formspree.io/f/mykladno"
+            action="https://formspree.io/f/mbdwdbgj"
             method="POST"
           >
             <input
